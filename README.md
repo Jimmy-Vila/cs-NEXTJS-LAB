@@ -1,15 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Comsysto LAB: NEXTJS
+
+This repository is for learning purposes. In this Lab we aim to create an application, which display lunch options for each location of Comsysto office
+
+### Editors:
+
+- Bruno
+- Danilo
+- Jimmy
+- Korbinian
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
 yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
