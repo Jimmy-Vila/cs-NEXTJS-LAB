@@ -1,13 +1,6 @@
 # Comsysto LAB: NEXTJS
 
-This repository is for learning purposes. In this Lab we aim to create an application, which display lunch options for each location of Comsysto office
-
-### Editors:
-
-- Bruno
-- Danilo
-- Jimmy
-- Korbinian
+This repository is for learning purposes. In this Lab we aim to create an application, which display lunch options for each location of Comsysto office.
 
 ## Getting Started
 
@@ -41,3 +34,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Editors:
+
+- Bruno
+- Danilo
+- Jimmy
+- Korbinian
